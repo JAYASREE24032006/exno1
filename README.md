@@ -139,6 +139,40 @@ print("\nCleaned Dataset Saved Successfully!")
 
 # OUTPUT:
 
+<img width="653" height="784" alt="image" src="https://github.com/user-attachments/assets/02972252-72d0-43d5-81da-911d7a098ecf" />
+
+<img width="620" height="438" alt="image" src="https://github.com/user-attachments/assets/7feef717-26de-4ee8-9b32-b21bf8461fb4" />
+
+<img width="607" height="428" alt="image" src="https://github.com/user-attachments/assets/9cd5c97d-9c93-44b2-adfe-572f4ddc2aee" />
+
+<img width="349" height="116" alt="image" src="https://github.com/user-attachments/assets/89efed0e-56ac-4802-bd7c-aa4208f93e1b" />
+
+<img width="823" height="432" alt="image" src="https://github.com/user-attachments/assets/e7e0a2b6-b4f1-4d07-b1b0-151951dbc66a" />
+
+<img width="436" height="334" alt="image" src="https://github.com/user-attachments/assets/3c0e66e8-c6cc-477e-8b4f-c38c53acb33e" />
+
+<img width="1400" height="397" alt="image" src="https://github.com/user-attachments/assets/87501319-813a-44a5-b189-ad5635ce3e43" />
+
+<img width="515" height="84" alt="image" src="https://github.com/user-attachments/assets/1d8ecf8a-f64e-4a5d-a96e-e802891703e1" />
+
+<img width="826" height="850" alt="image" src="https://github.com/user-attachments/assets/863477f9-7221-4322-b782-7e4515b1ffa6" />
+
+<img width="393" height="346" alt="image" src="https://github.com/user-attachments/assets/73d35747-b700-466f-923d-7df038e319a4" />
+
+<img width="690" height="182" alt="image" src="https://github.com/user-attachments/assets/fbd50c15-f1bc-4b57-834e-4a6be08982b1" />
+
+<img width="547" height="269" alt="image" src="https://github.com/user-attachments/assets/9e3a77c3-f4b4-447e-9319-0401959ab3e6" />
+
+<img width="882" height="777" alt="image" src="https://github.com/user-attachments/assets/ac79f7c2-e039-4f79-9155-85de2eff5d18" />
+
+<img width="663" height="533" alt="image" src="https://github.com/user-attachments/assets/3da5d2f6-3eac-4729-886c-993b0534c937" />
+
+<img width="676" height="165" alt="image" src="https://github.com/user-attachments/assets/f4b64446-f47f-4ed1-a800-75b3d4a1d89b" />
+
+<img width="553" height="161" alt="image" src="https://github.com/user-attachments/assets/fc6f4d38-cf6c-4d38-9b35-d365d62e4730" />
+
+
+
 
 # RESULT :
 The given dataset was successfully read, cleaned by handling missing and inconsistent data, outliers were identified and removed, and the cleaned dataset was saved to a new file successfully.
