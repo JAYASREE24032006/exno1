@@ -30,7 +30,7 @@ STEP 6: Use zscore of to remove outliers
 
 # PROGRAM :
 
-```
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
