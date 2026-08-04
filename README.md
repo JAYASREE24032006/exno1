@@ -39,6 +39,7 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("Loan_data.csv")
 
 print("Dataset Loaded Successfully!")
+print(df)
 
 print("\nFirst 5 Rows")
 print(df.head())
